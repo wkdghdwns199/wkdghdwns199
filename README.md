@@ -2,6 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdghdwns199&show_icons=true&theme=radical)
 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-000000??style=flat&logo=html5"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-000000??style=flat&logo=css3"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000??style=flat&logo=javascript"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-000000??style=flat&logo=C"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-000000??style=flat&logo=Python"/></a>
+
 <!--
 **wkdghdwns199/wkdghdwns199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
