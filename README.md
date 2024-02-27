@@ -31,6 +31,8 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-000000??style=flat&logo=coffeescript"/></a>
   <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PHP-000000??style=flat&logo=php"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Arduino-000000??style=flat&logo=arduino"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Git-000000??style=flat&logo=git"/></a>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000??style=flat&logo=github"/></a>
 </p>
 
 <!--
