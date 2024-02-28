@@ -5,8 +5,8 @@
 - Kyungsung Unversity DB LAB Data Sharing Network
 - Circulation System for the Restaurant Business Company (KF&B)
 - Advertising Web Page (Wine-Salon)
-- Web Comics Recommending & Reviewing Platform <Toonder>
-- House Door Safety Checker MVP <Are You Home?>
+- Web Comics Recommending & Reviewing Platform - **Toonder**
+- House Door Safety Checker MVP - **Are You Home?**
 ---
 
 ### 🔥 I am doing...
