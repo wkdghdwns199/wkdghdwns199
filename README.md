@@ -7,10 +7,13 @@
 - Advertising Web Page (Wine-Salon)
 - Web Comics Recommending & Reviewing Platform - **Toonder**
 - House Door Safety Checker MVP - **Are You Home?**
+- Pukyong National University Medical Department - **VDC project**
+- Call My Name Web Game - **WAG**
+- Automatic Painting Robot Arm -  **DUMMY** (Pukyong National Univ Capstone Project)
 ---
 
 ### 🔥 I am doing...
-- Pukyong National University Medical Department - **VDC project**
+- SSAFY 13th
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdghdwns199&show_icons=true&theme=radical)
@@ -29,6 +32,7 @@
 
 <p>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Supabase-000000??style=flat&logo=supabase"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Unity-000000??style=flat&logo=unity"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Linux-000000??style=flat&logo=linux"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-000000??style=flat&logo=ubuntu"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Nginx-000000??style=flat&logo=nginx"/></a>
@@ -39,6 +43,7 @@
 <p>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C-000000??style=flat&logo=C"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-000000??style=flat&logo=cplusplus"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSharp-000000??style=flat&logo=cplusplus"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-000000??style=flat&logo=Python"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-000000??style=flat&logo=coffeescript"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PHP-000000??style=flat&logo=php"/></a>
