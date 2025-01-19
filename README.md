@@ -8,8 +8,8 @@
 - Web Comics Recommending & Reviewing Platform - **Toonder**
 - House Door Safety Checker MVP - **Are You Home?**
 - Pukyong National University Medical Department - **VDC project**
-
-- Automatic Painting Robot Arm -  **DUMMY** (Pukyong National Univ Capstone Project)
+- Pukyong National University Student Fee Checker - **WABI** (Front-End)
+- Automatic Painting Robot Arm - **DUMMY** (Pukyong National Univ Capstone Project)
 ---
 
 ### 🔥 I am doing...
