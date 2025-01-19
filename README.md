@@ -8,12 +8,13 @@
 - Web Comics Recommending & Reviewing Platform - **Toonder**
 - House Door Safety Checker MVP - **Are You Home?**
 - Pukyong National University Medical Department - **VDC project**
-- Call My Name Web Game - **WAG**
+
 - Automatic Painting Robot Arm -  **DUMMY** (Pukyong National Univ Capstone Project)
 ---
 
 ### 🔥 I am doing...
 - SSAFY 13th
+- Call My Name Web Game - **WAG**
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdghdwns199&show_icons=true&theme=radical)
